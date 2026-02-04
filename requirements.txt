@@ -1,3 +1,4 @@
+
 rioxarray==0.17.0
 pystac==1.11.0
 pystac_client==0.9.0
@@ -18,3 +19,4 @@ zarr==2.17.2
 dask==2024.10.0
 xarray[complete]
 numcodecs==0.12.1
+xgboost==2.1.1
